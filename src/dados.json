@@ -1,0 +1,64 @@
+[
+  {"id_produto":3,
+    "nome":"calça larga",
+    "tipo":"calça",
+    "descricao":"calça larga simples",
+    "fav":true,
+    "cor":"preto",
+    "tamanho":"M",
+    "temtamanho":true,
+    "temcor":true,
+    "produto_user":2
+  },
+
+  {"id_produto":5,
+    "nome":"regata azul",
+    "tipo":"regata",
+    "descricao":"de praia",
+    "fav":true,
+    "cor":"branca",
+    "tamanho":"M",
+    "temtamanho":true,
+    "temcor":true,
+    "produto_user":1
+    },
+
+    {
+      "id_produto":1,
+      "nome":"regata",
+      "tipo":"regata",
+      "descricao":"de praia",
+      "fav":true,
+      "cor":"branca",
+      "tamanho":"M",
+      "temtamanho":false,
+      "temcor":true,
+      "produto_user":1
+      },
+
+      {
+        "id_produto":2,
+        "nome":"regata branca",
+        "tipo":"regata",
+        "descricao":"de praia",
+        "fav":true,
+        "cor":"branca",
+        "tamanho":"M",
+        "temtamanho":false,
+        "temcor":true,
+        "produto_user":1
+        },
+
+        {
+          "id_produto":6,
+          "nome":"regata branca",
+          "tipo":"regata",
+          "descricao":"de praia","fav":true,
+          "cor":"branca",
+          "tamanho":"M",
+          "temtamanho":false,
+          "temcor":true,
+          "produto_user":1
+          }
+        
+        ]
